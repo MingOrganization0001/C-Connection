@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <script language="javascript" type="text/javascript" src="../../Scripts/jquery-1.10.2.min.js"></script>
+    <script language="javascript" type="text/javascript" src="js/index.js"></script>
+</head>
+
+<body>
+    <div class="div-search">
+        <input type="search" class="input-search" />
+        <button onclick="loadme('keyword')" class="but-search"><span>查 询</span></button>
+        <button onclick="inslist()" class="but-search"><span>新 增</span></button>
+    </div>
+    <form id="form1">
+        <table>
+            <tbody>
+                <tr>
+                    <th>名称</th>
+                    <th>单价</th>
+                    <th>单位</th>
+                    <th>库存</th>
+                    <th>产地</th>
+                    <th>操作</th>
+                </tr>
+            </tbody>
+            <tbody id="tbody"></tbody>
+        </table>
+    </form>
+    <div id="insert-form">
+        <div class="ins-head">新增信息</div>
+        <form class="insform" name="form1" id="insform">
+            <span>名称：</span><input name="name" type="text" placeholder="请输入商品名称" />
+            <span>单价：</span><input name="price" type="text" placeholder="请输入商品单价" onblur="regis('price')" /><label id="price1">*请填写数字</label>
+            <span>单位：</span><input name="unit" type="text" placeholder="请输入商品单位" />
+            <span>库存：</span><input name="store" type="text" placeholder="请输入商品库存" onblur="regis('store')" /><label id="store1">*请填写数字</label>
+            <span>产地：</span><input name="place" type="text" placeholder="请输入商品产地" />
+        </form>
+        <div class="save-me"><button onclick="saveme()" class="but-search"><span>保 存</span></button></div>
+    </div>
+</body>
+</html>
+

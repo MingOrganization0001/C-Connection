@@ -1,0 +1,153 @@
+﻿body, ul, li, p, div, ol {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    list-style-type: none;
+    font-family: "微软雅黑";
+    color: #000000;
+}
+
+body {
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #ff7800;
+}
+
+    a:hover {
+        color: #ff7800;
+    }
+
+li a:hover {
+    color: #c50b0e;
+    text-decoration: underline;
+}
+
+h1, h2, h3 {
+    font-size: 12px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.index {
+    width: 1280px;
+    margin: 0 auto;
+    color: #000;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.carousel-indicators {
+    bottom: 20px;
+}
+
+table {
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    width: 600px;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+    table th {
+        font-weight: bold;
+    }
+
+    table td {
+        text-align: center;
+    }
+
+    table td, table th {
+        border-bottom: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+        line-height: 32px;
+        height: 32px;
+    }
+
+.a-link:hover {
+    border-bottom: 1px solid #ff7800;
+}
+/*查询*/
+.div-search {
+    text-align: center;
+    margin: 24px;
+}
+
+.input-search {
+    height: 27px;
+    vertical-align: middle;
+}
+
+.but-search {
+    background: #ff7800;
+    border: 0px;
+    height: 27px;
+    width: 60px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 27px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+    .but-search span:hover {
+        border-bottom: 1px solid #fff;
+    }
+
+/*新增*/
+.ins-head {
+    width: 600px;
+    margin: 12px auto;
+    font-size: 17px;
+    height: 32px;
+    line-height: 32px;
+    border-bottom: 1px solid #ff7800;
+    color: #ff7800;
+    font-weight: bold;
+}
+
+.insform {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+
+    .insform span {
+        font-size: 15px;
+        font-weight: bold;
+        width: 50px;
+        display: inline-block;
+    }
+
+    .insform input {
+        display: inline-block;
+        line-height: 27px;
+        width: 244px;
+        margin: 12px 0px;
+    }
+
+.save-me {
+    text-align: center;
+    margin-top: 21px;
+}
+
+#insform label {
+    display: none;
+    color: red;
+    margin-left: -70px;
+}

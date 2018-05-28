@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\ClassStore\bin\Debug\ClassStore.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\ClassStore\bin\Debug\ClassStore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\ClassStore\obj\Debug\ClassStore.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\ClassStore\obj\Debug\ClassStore.pdb
+E:\MyfirstProj\ClassStore\bin\Debug\ClassStore.dll
+E:\MyfirstProj\ClassStore\bin\Debug\ClassStore.pdb
+E:\MyfirstProj\ClassStore\obj\Debug\ClassStore.dll
+E:\MyfirstProj\ClassStore\obj\Debug\ClassStore.pdb

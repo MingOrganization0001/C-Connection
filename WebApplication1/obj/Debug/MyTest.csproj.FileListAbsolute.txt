@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\bin\MyTest.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\bin\MyTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\bin\MyTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\bin\ClassStore.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\bin\ClassStore.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\obj\Debug\MyTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\test2\WebApplication1\obj\Debug\MyTest.pdb
+E:\MyfirstProj\WebApplication1\bin\MyTest.dll.config
+E:\MyfirstProj\WebApplication1\bin\MyTest.dll
+E:\MyfirstProj\WebApplication1\bin\MyTest.pdb
+E:\MyfirstProj\WebApplication1\bin\ClassStore.dll
+E:\MyfirstProj\WebApplication1\bin\ClassStore.pdb
+E:\MyfirstProj\WebApplication1\obj\Debug\MyTest.dll
+E:\MyfirstProj\WebApplication1\obj\Debug\MyTest.pdb
